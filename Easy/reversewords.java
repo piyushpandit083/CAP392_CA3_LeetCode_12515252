@@ -1,4 +1,4 @@
-//7. reverse words in a string
+//151. reverse words in a string
 class Solution {
     public String reverseWords(String s) {
         String[] words = s.trim().split("\\s+");
