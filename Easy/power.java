@@ -1,4 +1,4 @@
-//238. power of two
+//231. power of two
 class Solution {
     public boolean isPowerOfTwo(int n) {
          if(n <= 0)
